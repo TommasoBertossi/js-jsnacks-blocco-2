@@ -8,7 +8,7 @@ Inserisci un numero, se è pari stampa il numero, se è dispari stampa il numero
 
 - Creo una variabile vuota 
 - Chiedo all'utente di inserirci un numero
-- Verifico che sia un numero Naturale
+- Verifico che sia un numero Intero
 - **se** il resto della divisione per 2 è = 0
     - **allora** lo stampo
     - **altrimenti** aggiungo 1 al numero inserito
